@@ -1,0 +1,17 @@
+{
+  "name": "week-9-hw",
+  "version": "1.0.0",
+  "description": "hangman",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annelisam/week-9-hw.git"
+  },
+  "homepage": "https://github.com/annelisam/week9-hw#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
