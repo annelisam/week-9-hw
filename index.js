@@ -1,5 +1,6 @@
 var Word = require('./word.js');
 var prompt = require('prompt');
+var letter = require('./letter.js')
 
 console.log("Name that 90's popstar");
 console.log("-----------------------------");
